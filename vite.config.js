@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/Lenguajes4_TP4/"
+  base: "/Lenguajes4_TP5/"
 });
 
