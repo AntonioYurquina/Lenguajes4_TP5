@@ -1,1 +1,5 @@
 node_modules/.cache/gh-pages/
+
+# dependencias y build
+node_modules/
+dist/
